@@ -1,7 +1,7 @@
 # Employee-Performance-Dashboard-in-PowerBI
 
 ## 📌 Project Overview
-The **Employee Performance Dashboard** is an interactive HR analytics dashboard built using **Power BI**. It analyzes employee productivity, performance trends, and attrition patterns to help organizations make data-driven HR decisions.
+The **Employee Performance Dashboard** is an interactive HR analytics dashboard built using **Power BI**. It analyzes employee productivity, performance trends, and attrition patterns to help organizations make data-driven HR decisions. And implementation of an unique feature - **Dark mode & Light mode toggle**
 
 ---
 
@@ -53,7 +53,7 @@ This page focuses on employee turnover patterns and factors influencing attritio
 
 ## 🚀 Key Features
 - Interactive Power BI Dashboard
-- Dark Mode / Light Mode Toggle
+- **Dark Mode / Light Mode Toggl**e
 - Department and Role Level Analysis
 - Training vs Performance Analysis
 - Attrition Trend Analysis
